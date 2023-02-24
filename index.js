@@ -16,7 +16,7 @@ inquirer.prompt([
     {
       type: "list",
       name: "license",
-      message: "Which license would you like to use for your project?",
+      message: "Which license would you like to use for your project? (use up/down arrow to select)",
       choices: ["MIT", "GPL", "Apache", "BSD"],
     },
     {
@@ -114,7 +114,7 @@ inquirer.prompt([
       if (err) {
         console.log(err);
       } else {
-        console.log("README created successfully");
+        console.log("README file created successfully");
       }
     });
   });

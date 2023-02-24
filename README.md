@@ -1,5 +1,5 @@
 
-  # ReadMe Generator
+  # Readme Generator
   
   ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
   
@@ -18,11 +18,11 @@
   
   ## Installation
   
-  This application does`t have any installation steps
+  This application doesn't require installation.
   
   ## Usage
   
-  In order to use the application you need cd into to the folder read-me-generator and then type the command line `node index.js` 
+  In order to use the application you need cd into to the folder `read-me-generator` and then type the command line node index.js.
   
   ## License
   
@@ -30,13 +30,13 @@
   
   ## Contributing
   
-  none
+  not applicable
   
   ## Tests
   
-  In order to test the application you need to run the node.js command line and check if a readme.md file has appeared in the folder with the input you provided.
+  To test the application, you need to run the node.js command line and check if a readme exists.md file has appeared in the folder with the input you provided. Also, a message should be displayed after the last input saying that the readme file was created successfully.
   
   ## Questions
   
-  If you have any questions about this project, please contact neftonjin at neftonjin@yahoo.com.
+  If you have any questions about this project, please contact nefton at neftonjin@yahoo.com.
   
