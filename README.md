@@ -22,7 +22,7 @@
   
   ## Usage
   
-  In order to use the application you need cd into to the folder `read-me-generator` and then type the command line node index.js.
+  In order to use the application you need cd into to the folder `read-me-generator` and then type the command line node index.js
   
   ## License
   
@@ -30,7 +30,7 @@
   
   ## Contributing
   
-  not applicable
+   not applicable
   
   ## Tests
   
