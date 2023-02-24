@@ -1,11 +1,11 @@
 
-  # ReadMe generator
+  # ReadMe Generator
   
   ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  This project is a readme.md file generator .It takes user input and generates a readme file based on the input
+  This application is generating a readme.md file based on the user input.
   
   ## Table of Contents
   
@@ -18,11 +18,11 @@
   
   ## Installation
   
-  In order to install you have to clone the repository 
+  This application does`t have any installation steps
   
   ## Usage
   
-  run the aplication provide the input 
+  In order to use the application you need cd into to the folder read-me-generator and then type the command line `node index.js` 
   
   ## License
   
@@ -30,11 +30,11 @@
   
   ## Contributing
   
-  none 
+  none
   
   ## Tests
   
-  there are no test at the moment
+  In order to test the application you need to run the node.js command line and check if a readme.md file has appeared in the folder with the input you provided.
   
   ## Questions
   
