@@ -30,13 +30,17 @@
   
   ## Contributing
   
-   not applicable
+  not applicable
   
   ## Tests
   
-  To test the application, you need to run the node.js command line and check if a readme exists.md file has appeared in the folder with the input you provided. Also, a message should be displayed after the last input saying that the readme file was created successfully.
+   To test the application, you need to run the node.js command line and check if a readme exists.md file has appeared in the folder with the input you provided. Also, a message should be displayed after the last input saying that the readme file was created successfully.
   
   ## Questions
   
-  If you have any questions about this project, please contact nefton at neftonjin@yahoo.com.
+  If you have any questions about this project, please contact Neftonjin at neftonjin@yahoo.com.
+
+  ##Link 
+  
+  https://www.youtube.com/watch?v=TObhOKDW1Fg
   
